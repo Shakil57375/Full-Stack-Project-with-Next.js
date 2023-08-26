@@ -8,11 +8,11 @@ const Footer = () => {
         <p> &copy; All Rights reserved by Shakil</p>
       </div>
       <div>
-        <div className="flex gap-3">
-          <Image src="/1.png" width={15} height={15} alt="Shakil image"></Image>
-          <Image src="/2.png" width={15} height={15} alt="Shakil image"></Image>
-          <Image src="/3.png" width={15} height={15} alt="Shakil image"></Image>
-          <Image src="/4.png" width={15} height={15} alt="Shakil image"></Image>
+        <div className="flex gap-3 items-center">
+          <Image src="/1.png" width={15} height={15} className="opacity-[0.6] cursor-pointer" alt="Shakil image"></Image>
+          <Image src="/2.png" width={15} height={15} className="opacity-[0.6] cursor-pointer" alt="Shakil image"></Image>
+          <Image src="/3.png" width={15} height={15} className="opacity-[0.6] cursor-pointer" alt="Shakil image"></Image>
+          <Image src="/4.png" width={15} height={15} className="opacity-[0.6] cursor-pointer" alt="Shakil image"></Image>
         </div>
         {/* another way to do styling */}
         {/* <div className={styles.imgContainer}>
