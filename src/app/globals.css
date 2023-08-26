@@ -16,12 +16,26 @@ body{
     color: #bbb;
 }
 
+.theme{
+    transition: 1s all ease;
+}
+
+.light{
+    background-color: white;
+    color: #111;
+}
+
+.dark{
+    background-color: #111;
+    color: white;
+}
+
 a {
     text-decoration: none;
     color: inherit;
 }
 
-.container{
+.global-container{
     max-width: 1366px;
     min-height: 100vh;
     margin: 0 auto;
