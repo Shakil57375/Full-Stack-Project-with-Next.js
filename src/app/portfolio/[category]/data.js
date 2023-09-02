@@ -28,14 +28,14 @@ export const items = {
       title: "Creative Portfolio",
       desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
       image:
-        "https://images.pexels.com/photos/3130810/pexels-photo-3130810.jpeg",
+        "https://images.pexels.com/photos/16645682/pexels-photo-16645682/free-photo-of-close-up-of-green-leaves.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
     },
     {
       id: 2,
       title: "Minimal Single Product",
       desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
       image:
-        "https://images.pexels.com/photos/2103127/pexels-photo-2103127.jpeg",
+        "https://images.pexels.com/photos/18077695/pexels-photo-18077695/free-photo-of-textures.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     },
     {
       id: 3,
