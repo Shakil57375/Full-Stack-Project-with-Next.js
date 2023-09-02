@@ -4,17 +4,10 @@ import Hero from "../../public/hero.png";
 import Image from "next/image";
 const Home = () => {
   return (
-    <div className="flex  items-center gap-24">
-      <div className={styles.items}>
-        <h1 className={styles.title}>Better design for your digital products.</h1>
-        <p className="text-lg font-medium">
-          Turning your Idea into Reality. We bring together the teams form the
-          global teach industry.
-        </p>
-        <button className="p-5 cursor-pointer bg-[#53c29b] border-none rounded-xl text-black">See Our Works</button>
-      </div>
+    <div className="">
+      
       <div>
-        <Image src={Hero} alt="banner image" className={styles.img}></Image>
+        <Image src="https://images.pexels.com/photos/9739345/pexels-photo-9739345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width={1200} height={600} alt="banner image" className="w-[600px]"></Image>
       </div>
       {/* way to use external image have include the path of the image on next.config.js */}
       {/* <div>
