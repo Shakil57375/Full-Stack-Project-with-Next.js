@@ -1,7 +1,10 @@
 import React from "react";
 import styles from "./page.module.css";
 import Link from "next/link";
-
+export const metadata = {
+  title: "Shakil Dev | portfolio",
+  description: "This is the the portfolio page",
+};
 const Portfolio = () => {
   return (
     <div className={styles.container}>
